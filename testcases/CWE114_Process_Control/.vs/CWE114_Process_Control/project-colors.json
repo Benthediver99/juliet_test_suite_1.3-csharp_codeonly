@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f64eaf7f-8687-765b-317c-37d60055994e": {
+      "ProjectGuid": "f64eaf7f-8687-765b-317c-37d60055994e",
+      "DisplayName": "CWE114_Process_Control",
+      "ColorIndex": 0
+    },
+    "4cdbae35-8cd1-4a0f-8912-b79d0bb43b83": {
+      "ProjectGuid": "4cdbae35-8cd1-4a0f-8912-b79d0bb43b83",
+      "DisplayName": "TestCaseSupport",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

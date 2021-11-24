@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWE83_XSS_Attribute", "CWE83_XSS_Attribute.csproj", "{7444DB73-C3B9-E655-2393-97C63B301CC8}"
+EndProject
+Project("{AE78B512-649F-E225-4A7E-BAD6ACB73B94}") = "TestCaseSupport", "..\..\testcasesupport\TestCaseSupport.csproj", "{4CDBAE35-8CD1-4A0F-8912-B79D0BB43B83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7444DB73-C3B9-E655-2393-97C63B301CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7444DB73-C3B9-E655-2393-97C63B301CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7444DB73-C3B9-E655-2393-97C63B301CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7444DB73-C3B9-E655-2393-97C63B301CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CDBAE35-8CD1-4A0F-8912-B79D0BB43B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDBAE35-8CD1-4A0F-8912-B79D0BB43B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDBAE35-8CD1-4A0F-8912-B79D0BB43B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDBAE35-8CD1-4A0F-8912-B79D0BB43B83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2015575-F82C-411D-8A8F-F7C254EC78C8}
+	EndGlobalSection
+EndGlobal

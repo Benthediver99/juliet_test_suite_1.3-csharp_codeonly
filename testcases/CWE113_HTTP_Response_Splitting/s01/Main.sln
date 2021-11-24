@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00000000-0000-0000-0000-000000000000}") = "$CWE$", "Main.csproj", "{A9320BB9-4934-4A31-8530-FD8EDF691E58}"
+EndProject
+Project("{00000000-0000-0000-0000-000000000000}") = "TestCaseSupport", "..\..\..\testcasesupport\TestCaseSupport.csproj", "{7F5280A6-8BBF-4C46-8569-F5CF2E9BA6B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F5280A6-8BBF-4C46-8569-F5CF2E9BA6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F5280A6-8BBF-4C46-8569-F5CF2E9BA6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F5280A6-8BBF-4C46-8569-F5CF2E9BA6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F5280A6-8BBF-4C46-8569-F5CF2E9BA6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B369AEA-8263-478C-8256-35891608D42C}
+	EndGlobalSection
+EndGlobal

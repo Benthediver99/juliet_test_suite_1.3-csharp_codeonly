@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "11f432f6-4260-bfb4-9d2f-a032a7839e89": {
+      "ProjectGuid": "11f432f6-4260-bfb4-9d2f-a032a7839e89",
+      "DisplayName": "CWE643_Xpath_Injection",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
